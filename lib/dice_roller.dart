@@ -18,6 +18,7 @@ class _DiceRollerState extends State<DiceRoller> {
 
   void rollDice() {
     setState(() {
+      // nextInt() to create random numbers of any range
       diceValue = randomizer.nextInt(6) + 1;
     });
   }

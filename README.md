@@ -1,16 +1,29 @@
-# first_app
+# Dice Rolling App
 
-A new Flutter project.
+It is a simple dice rolling app that lets users roll a virtual dice with a simple button tap.
 
-## Getting Started
+## Widgets learned
 
-This project is a starting point for a Flutter application.
+- MaterialApp
+- Scaffold
+- Container
+- Center
+- SizedBox
+- Text
+- TextStyle
+- Column
+- TextButton
+- Image
 
-A few resources to get you started if this is your first Flutter project:
+## Things learned:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Add a Gradient background
+- Used Stateless Widgets
+- Add different styling properties
+- Made Custom Widgets
+- Used Stateful Widget
+- Made Private classes
+- Used createState() and setState() to create and manage state
+- Added images into the assets and then used them
+- Generated Random number using nextInt()
+- Styled a button widget using "styleFrom"
